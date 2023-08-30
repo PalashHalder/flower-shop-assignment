@@ -59,9 +59,9 @@ body{
 }
 
 
-/* ========== main section style ========== */
+/* ========== main section statrs ========== */
 
-/* ========== feature section style ========== */
+/* ========== feature section starts ========== */
 .features{
     margin: 147px 240px 100px 240px;
 }
@@ -121,8 +121,6 @@ body{
     background-position: center;
 }
 
-
-
 .flower-pic p{
     color: #272727;
     text-align: center;
@@ -132,6 +130,7 @@ body{
     text-decoration-line: underline;
 }
 
+/* ========== delivey section starts ========== */
 .delivery{
     display: flex;
     margin: 128px 240px;
@@ -163,7 +162,7 @@ body{
     padding-left: 80px;
 }
 
-
+/* ========== hot-deal section starts ========== */
 .hot-deal{
     display: flex;
     padding: 100px 420px;
@@ -211,7 +210,7 @@ body{
   
 }
 
-
+/* ========== instagram section starts ========== */
 .instagram{
     margin: 147px 240px 100px 240px;
 }
@@ -263,7 +262,7 @@ body{
 }
 
 
-
+/* ========== search section starts ========== */
 .search{
     margin: 20px 240px;
     padding-top: 122px;
@@ -288,8 +287,6 @@ body{
     font-weight: 400;
 }
 
-
-
 .search-form{
     text-align: center;
 }
@@ -313,6 +310,7 @@ input[type="email"]{
     font-size: 20px;
 }
 
+/* ========== footer section starts ========== */
 footer{
     padding: 128px 640px;
     background: #111010;
